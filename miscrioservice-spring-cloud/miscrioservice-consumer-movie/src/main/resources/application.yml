@@ -1,0 +1,4 @@
+server:
+  port: 8002
+user: 
+  userservicepath: http://localhost:8001/finduser 
